@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Kev / Creative Developer</title><desc id="desc">Video. Web. Practical AI workflows.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b2e"/><stop offset="1" stop-color="#090d16"/></linearGradient><linearGradient id="accent"><stop stop-color="#86b8ff"/><stop offset="1" stop-color="#d6baff"/></linearGradient></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#26344a"><circle cx="1040" cy="175" r="230"/><circle cx="1040" cy="175" r="170"/><circle cx="1040" cy="175" r="110"/><path d="M790 175h410M1040 0v340"/></g>
+<g fill="#b8c6df"><circle cx="735" cy="70" r="2"/><circle cx="1090" cy="62" r="3"/><circle cx="870" cy="280" r="2"/><circle cx="1150" cy="285" r="2"/></g>
+<rect x="56" y="51" width="4" height="23" rx="2" fill="#86b8ff"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="75" y="69" font-size="16" letter-spacing="3" fill="#bdc9de">CẤN NHẬT MINH · KEVTHEWANDERER</text><text x="56" y="157" font-size="64" font-weight="700" letter-spacing="-2" fill="#f4f6fc">Kev / Creative Developer</text><text x="58" y="207" font-size="23" fill="#bac8de">Video. Web. Practical AI workflows.</text><text x="58" y="286" font-size="15" letter-spacing="2" fill="#8fa6c6">CREATE WITH INTENT. SHIP WITH PROOF.</text></g>
+<g transform="translate(977 108)" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M-20 25-48 55-20 85M70 25l28 30-28 30M47 7 7 104"/></g>
+</svg>
